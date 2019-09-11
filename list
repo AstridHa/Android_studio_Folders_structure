@@ -1,0 +1,10 @@
+Activities
+Adapters
+Dao 
+Data (Models/Singletons)
+Database (ROOM)
+Dataproviders (Asyns)
+Fragments
+Repositories
+Utils
+ViewModel(ROOM)
